@@ -63,9 +63,14 @@ Ou seja: a primeira tag li aparece com o pré-fixo 1. <br>
 Objetivo: A lista que utiliza a tag ul, lista todos os itens com um marcador circular ("bolinha") no pré-fixo. <br>
 <img width="400" alt="image" src=images/UL.png/>  <br>
 <br>
-
+➡️ FOOTER: <br>
+Objetivo: Define rodapé. <br>
+Esse elemento fica dentro do body. <br>
+<img height="34" alt="image" src=images/FOOTER.png/> <br>
+<br>
 ✅✅ Resultado: <br>
 <img alt="INDEX" src="images/INDEX.png" />
+
 
 
 
