@@ -1,16 +1,18 @@
-✅✅Apresentação:
+✅✅Apresentação: <br>
 Olá, sou a Mariana da Silva Vagula e estou realizando o curso de Programação Web de 120 horas pela FAT no ano de 2025. <br>
 
-✅✅Objetivo e observações:
+✅✅Objetivo e observações: <br>
 Esse código foi desenvolvido no módulo 1 e é a atividade prática 0 da aula 4.  <br>
 Criei um site de uma padaria qualquer e a minha chama "Padaria da Mariana".  <br>
 Estamos na etapa de estruturação, então o código só possui o html.  <br>
 
-✅✅Desenvolvimento e estrutura do projeto:
+✅✅Desenvolvimento e estrutura do projeto:  <br>
 🔸index.html  <br>
 
-✅✅ Tags utilizadas:
-<img height="34" alt="image" src=images/DOCTYPE.png/> --> Define o tipo de Documento. <br>
+✅✅ Tags utilizadas:  <br>
+➡️ DOCTYPE: <br>
+Objetivo: Define o tipo de Documento. <br>
+<img height="34" alt="image" src=images/DOCTYPE.png/> <br>
 <img height="34" alt="image" src=images/HTML.png/> --> Inicia o código e definindo o idioma. <br>
 <img height="34" alt="image" src=images/HEAD.png/> --> Cabeçalho do site. <br>
 <img height="34" alt="image" src=images/BODY.png/> --> Corpo do site. <br>
@@ -26,6 +28,7 @@ Estamos na etapa de estruturação, então o código só possui o html.  <br>
 
 ✅✅ Resultado:
 <img alt="INDEX" src="images/INDEX.png" />
+
 
 
 
