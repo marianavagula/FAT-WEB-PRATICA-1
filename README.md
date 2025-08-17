@@ -61,11 +61,12 @@ Ou seja: a primeira tag li aparece com o pré-fixo 1. <br>
 <br>
 ➡️ UL: <br>
 Objetivo: A lista que utiliza a tag ul, lista todos os itens com um marcador circular ("bolinha") no pré-fixo. <br>
-<img width="500" alt="image" src=images/UL.png/>  <br>
+<img width="400" alt="image" src=images/UL.png/>  <br>
 <br>
 
 ✅✅ Resultado: <br>
 <img alt="INDEX" src="images/INDEX.png" />
+
 
 
 
