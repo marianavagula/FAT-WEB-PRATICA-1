@@ -59,10 +59,11 @@ Objetivo: A lista que utiliza a tag ol, lista os itens em ordem numérica. <br>
 Ou seja: a primeira tag li aparece com o pré-fixo 1. <br>
 <img alt="image" src=images/OL.png/>  <br>
 <br>
-➡️ : <br>
+➡️ UL: <br>
 Objetivo: A lista que utiliza a tag ul, lista todos os itens com um marcador circular ("bolinha") no pré-fixo. <br>
 <img alt="image" src=images/UL.png/>  <br>
 <br>
 
 ✅✅ Resultado: <br>
 <img alt="INDEX" src="images/INDEX.png" />
+
