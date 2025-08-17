@@ -69,7 +69,9 @@ Esse elemento fica dentro do body. <br>
 <img height="34" alt="image" src=images/FOOTER.png/> <br>
 <br>
 ✅✅ Resultado: <br>
+Link da página:  <a href="https://marianavagula.github.io/FAT-WEB-PRATICA-1/></a> <br>
 <img alt="INDEX" src="images/INDEX.png" />
+
 
 
 
