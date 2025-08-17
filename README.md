@@ -33,4 +33,8 @@ Você foi contratado para criar o site da Padaria do Bairro e precisa preparar s
 📐 Estrutura HTML5 básica
 🏷️ Título da página
 💬 Comentários explicativos
+
 ⏭️ Preparação para próximas aulas
+
+<img alt="INDEX" src="images/INDEX.png" />
+
