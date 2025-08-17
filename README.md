@@ -26,27 +26,43 @@ Objetivo: Cabeçalho do site. <br>
 Objetivo: Corpo do site. <br>
 <img height="34" alt="image" src=images/BODY.png/> <br>
 <br>
+➡️ TITLE: <br>
+Objetivo: Titulo do site, ou seja, é o nome que aparece na aba do navegado. <br>
+<img height="34" alt="image" src=images/TITLE.png/>  <br>
+<br>
+➡️ H1, H2, H3, H4: <br>
+Objetivo: Titulo Principal. <br>
+Tem vários tamanhos: h1, h2, h3 e h4. <br>
+Quanto maior o número, menor o texto. <br>
+<img height="34" alt="image" src=images/H1.png/> <br>
+<br>
+➡️ P: <br>
+Objetivo: Parágrafo. <br>
+<img height="34" alt="image" src=images/P.png/>  <br>
+<br>
+➡️ NAV: <br>
+Objetivo: A tag nav é utilizada para barra de navegação, gerando link para mudar de página ou direcionar o usuário para outro local do site. <br>
+<img alt="image" src=images/NAV.png/> <br>
+<br>
+➡️ SELECTION: <br>
+Objetivo: Quando o dev deseja direcionar o usuário dentro da mesma página, deve usar a tag section e o id. <br>
+Ao usuário clicar no link, ele será direcionado para esse selection que possui o mesmo id do link. <br>
+<img alt="image" src=images/SELECTION.png/> <br>
+<br>
+➡️ LI: <br>
+Objetivo: Aqui estou utilizando a tag li que faz a listagem dos itens. <br>
+E para testar dois tipos de visuais, utilizei a tag ol e a tag ul. <br>
+<img alt="image" src=images/LI.png/> <br>
+<br>
+➡️ OL: <br>
+Objetivo: A lista que utiliza a tag ol, lista os itens em ordem numérica. <br>
+Ou seja: a primeira tag li aparece com o pré-fixo 1. <br>
+<img alt="image" src=images/OL.png/>  <br>
+<br>
 ➡️ : <br>
-Objetivo:  <br>
-
+Objetivo: A lista que utiliza a tag ul, lista todos os itens com um marcador circular ("bolinha") no pré-fixo. <br>
+<img alt="image" src=images/UL.png/>  <br>
 <br>
 
-
-
-<img height="34" alt="image" src=images/TITLE.png/> --> Titulo do site, ou seja, é o nome que aparece na aba do navegado. <br>
-<img height="34" alt="image" src=images/H1.png/> --> Titulo Principal. Tem vários tamanhos: h1, h2, h3 e h4. Quanto maior o número, menor o texto. <br>
-<img height="34" alt="image" src=images/P.png/> --> Parágrafo. <br>
-<img alt="image" src=images/NAV.png/> --> A tag nav é utilizada para barra de navegação, gerando link para mudar de página ou direcionar o usuário para outro local do site. <br>
-<img alt="image" src=images/SELECTION.png/> --> Quando o dev deseja direcionar o usuário dentro da mesma página, deve usar a tag section e o id. Ao usuário clicar no link, ele será direcionado para esse selection que possui o mesmo id do link. <br>
-<img alt="image" src=images/LI.png/> --> Aqui estou utilizando a tag li que faz a listagem dos itens. E para testar dois tipos de visuais, utilizei a tag ol e a tag ul. <br>
-<img alt="image" src=images/OL.png/> A lista que utiliza a tag ol, lista os itens em ordem numérica. Ou seja: a primeira tag li aparece com o pré-fixo 1. <br>
-<img alt="image" src=images/UL.png/> A lista que utiliza a tag ul, lista todos os itens com um marcador circular ("bolinha") no pré-fixo. <br>
-
-
-✅✅ Resultado:
+✅✅ Resultado: <br>
 <img alt="INDEX" src="images/INDEX.png" />
-
-
-
-
-
