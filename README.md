@@ -13,9 +13,26 @@ Estamos na etapa de estruturação, então o código só possui o html.  <br>
 ➡️ DOCTYPE: <br>
 Objetivo: Define o tipo de Documento. <br>
 <img height="34" alt="image" src=images/DOCTYPE.png/> <br>
-<img height="34" alt="image" src=images/HTML.png/> --> Inicia o código e definindo o idioma. <br>
-<img height="34" alt="image" src=images/HEAD.png/> --> Cabeçalho do site. <br>
-<img height="34" alt="image" src=images/BODY.png/> --> Corpo do site. <br>
+<br>
+➡️ HTML: <br>
+Objetivo: Inicia o código e definindo o idioma. <br>
+<img height="34" alt="image" src=images/HTML.png/> <br>
+<br>
+➡️ HEAD: <br>
+Objetivo: Cabeçalho do site. <br>
+<img height="34" alt="image" src=images/HEAD.png/> <br>
+<br>
+➡️ BODY: <br>
+Objetivo: Corpo do site. <br>
+<img height="34" alt="image" src=images/BODY.png/> <br>
+<br>
+➡️ : <br>
+Objetivo:  <br>
+
+<br>
+
+
+
 <img height="34" alt="image" src=images/TITLE.png/> --> Titulo do site, ou seja, é o nome que aparece na aba do navegado. <br>
 <img height="34" alt="image" src=images/H1.png/> --> Titulo Principal. Tem vários tamanhos: h1, h2, h3 e h4. Quanto maior o número, menor o texto. <br>
 <img height="34" alt="image" src=images/P.png/> --> Parágrafo. <br>
@@ -28,6 +45,7 @@ Objetivo: Define o tipo de Documento. <br>
 
 ✅✅ Resultado:
 <img alt="INDEX" src="images/INDEX.png" />
+
 
 
 
